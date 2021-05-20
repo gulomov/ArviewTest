@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arview</string>
+    <string name="example">Example</string>
+    <string name="chanel">Каналы</string>
+    <string name="viewer">Зрители</string>
+    <string name="send">Отправить</string>
+    <string name="feedback">Отзыв</string>
+</resources>
